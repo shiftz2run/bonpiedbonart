@@ -1,0 +1,16 @@
+{
+  "Profil": {
+    "andrew": {
+      "image": "path/to/andrew-image.jpg",
+      "name": "Andrew"
+    },
+    "mac": {
+      "image": "path/to/mac-image.jpg",
+      "name": "Mac"
+    },
+    "cheese": {
+      "image": "path/to/cheese-image.jpg",
+      "name": "Cheese"
+    }
+  }
+}
